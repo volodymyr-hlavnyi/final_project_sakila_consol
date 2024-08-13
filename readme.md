@@ -29,7 +29,6 @@ python main.py
 ```
 
 ## Simple version of final project Sakila Database search films:
-```
 ==============================
 Sakila tools for search films by different parameters.
 ==============================
@@ -38,4 +37,4 @@ Sakila tools for search films by different parameters.
  2 - Search by genre and year
  3 - View top search queries
 Select item (0 - exit)): 
-```
+
