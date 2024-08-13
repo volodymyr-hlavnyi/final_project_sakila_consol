@@ -18,9 +18,9 @@ ICH_PASSWORD_WRITE=password
 ICH_DATABASE_WRITE=name_database
 ```
 
-'''
-Simple version of final project Sakila Database search films:
 
+## Simple version of final project Sakila Database search films:
+```
 ==============================
 Sakila tools for search films by different parameters.
 ==============================
@@ -29,5 +29,4 @@ Sakila tools for search films by different parameters.
  2 - Search by genre and year
  3 - View top search queries
 Select item (0 - exit)): 
-
-'''
+```
