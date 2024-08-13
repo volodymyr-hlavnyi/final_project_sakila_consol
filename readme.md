@@ -4,6 +4,12 @@
 Simple version of final project Sakila Database search films
 You can fork this project and use it as a base for your final project
 
+## Installation
+1. Clone the repository
+2. Create a virtual environment
+3. Install the requirements
+pip install -r requirements.txt
+4. Create a .env file with the following content
 You need to add self environment variables in the .env file
 like this:
 ```
@@ -17,15 +23,9 @@ ICH_USER_WRITE=user
 ICH_PASSWORD_WRITE=password
 ICH_DATABASE_WRITE=name_database
 ```
-
-## Installation
-1. Clone the repository
-2. Create a virtual environment
-3. Install the requirements
-pip install -r requirements.txt
-4. Create a .env file with the following content:
-5. Run the application
+6. Run the application
 python main.py
+
 ```
 
 ## Simple version of final project Sakila Database search films:
